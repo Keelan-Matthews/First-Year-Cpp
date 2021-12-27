@@ -1,0 +1,7 @@
+This network approximates the function sin(x) where x is in radians in the range [-10, 10]:
+
+Input: [0.0]  Output: -0.014640342823228
+Input: [1.0]  Output: 0.824954059034498
+Input: [-1.0]  Output: -0.854234744680953
+Input: [5.0]  Output: -0.977291587431466
+Input: [1.5]  Output: 1.12744406068624

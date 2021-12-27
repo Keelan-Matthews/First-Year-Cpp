@@ -1,0 +1,6 @@
+This network approximates the mean of the 5 input values:
+
+Input: [5.0 10.0 15.0 20.0 25.0]  Output: 14.8784669740762
+Input: [0.0 10.0 20.0 30.0 40.0]  Output: 19.8292299760834
+Input: [-1.0 -2.0 -3.0 -4.0 -5.0]  Output: -3.01368289443077
+Input: [50.0 -2.0 -32.0 60.0 -10.0]  Output: 13.1388344533449

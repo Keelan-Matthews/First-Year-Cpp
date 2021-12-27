@@ -1,0 +1,7 @@
+This network approximates x squared in the range [-100, 100]:
+
+Input: [2.0]  Output: 3.95883565497932
+Input: [4.0]  Output: 15.9906610859263
+Input: [8.0]  Output: 64.0320982075931
+Input: [-4.0]  Output: 15.9185846748349
+Input: [-10.0]  Output: 97.8389452589467

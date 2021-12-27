@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/HiddenLayer.h
+HiddenNeuron.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/HiddenNeuron.h
+InputLayer.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/InputLayer.h
+string
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/HiddenNeuron.h
+InputLayer.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/InputLayer.h
+cmath
+-
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/InputLayer.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/NeuralNetwork.h
+InputLayer.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/InputLayer.h
+HiddenLayer.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/HiddenLayer.h
+OutputLayer.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/OutputLayer.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/OutputLayer.h
+HiddenLayer.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/HiddenLayer.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/main.cpp
+iostream
+-
+iomanip
+-
+NeuralNetwork.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a1/files/NeuralNetwork.h
+
