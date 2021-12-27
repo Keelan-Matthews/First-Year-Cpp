@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p4/tome.cpp
+tome.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p4/tome.h
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p4/tome.h
+string
+-
+

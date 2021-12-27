@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/cargo.h
+component.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/component.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/component.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/locomotive.h
+component.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/component.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/main.cpp
+iostream
+-
+train.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/train.h
+iostream
+-
+string
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/passenger.h
+component.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/component.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/train.cpp
+train.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/train.h
+cargo.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/cargo.h
+passenger.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/passenger.h
+locomotive.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/locomotive.h
+sstream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/train.h
+component.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p5/component.h
+iostream
+-
+string
+-
+
