@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Application.h
+Message.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Message.h
+Layer.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Layer.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Layer.h
+iostream
+-
+Message.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Message.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Message.cpp
+Message.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Message.h
+sstream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Message.h
+string
+-
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Transport.h
+Layer.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Layer.h
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/main.cpp
+Message.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Message.h
+Application.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Application.h
+Transport.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a4/Transport.h
+
