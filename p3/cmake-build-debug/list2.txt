@@ -1,0 +1,8 @@
+chad,1
+joel,2
+josh,3
+jordan,4
+derrick,4
+sonia,3
+zik,8
+onety,8

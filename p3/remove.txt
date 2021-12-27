@@ -1,0 +1,3 @@
+big toe,5
+snake,7
+poison,9

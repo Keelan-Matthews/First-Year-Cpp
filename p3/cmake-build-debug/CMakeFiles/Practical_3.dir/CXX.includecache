@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p3/cauldron.cpp
+cauldron.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p3/cauldron.h
+fstream
+-
+iostream
+-
+sstream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p3/cauldron.h
+string
+-
+ingredient.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p3/ingredient.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p3/ingredient.h
+string
+-
+
