@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/board.h
+piece.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/piece.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/piece.h
+string
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/solver.cpp
+piece.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/piece.h
+board.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/board.h
+solver.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/solver.h
+fstream
+-
+iostream
+-
+sstream
+-
+fstream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/solver.h
+board.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a2/board.h
+
