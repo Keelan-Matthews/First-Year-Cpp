@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/Babushka.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/BabushkaException.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/Controller.h
+Babushka.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/Babushka.h
+ReturnStruct.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/ReturnStruct.h
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/ControllerException.h
+BabushkaException.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/BabushkaException.h
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/ReturnStruct.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/main.cpp
+iostream
+-
+string
+-
+Controller.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/Controller.h
+ControllerException.h
+G:/My Drive/University/Semester 2/COS 110/Coding/assignments/a3/ControllerException.h
+
