@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/dList.cpp
+dList.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/dList.h
+train.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/train.h
+trainCar.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/trainCar.h
+dispatch.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/dispatch.h
+cstdlib
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/dList.h
+dispatch.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/dispatch.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/dispatch.h
+iostream
+-
+string
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/train.h
+trainCar.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/trainCar.h
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p7/trainCar.h
+

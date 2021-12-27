@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/main.cpp
+iostream
+-
+manager.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/manager.h
+trolley.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/trolley.h
+train.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/train.h
+tooFast.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/tooFast.h
+tooSlow.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/tooSlow.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/manager.cpp
+manager.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/manager.h
+sstream
+-
+fstream
+-
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/manager.h
+train.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/train.h
+manager.cpp
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/manager.cpp
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/storageEmpty.h
+exception
+-
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/storageFull.h
+exception
+-
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/tooFast.h
+exception
+-
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/tooSlow.h
+exception
+-
+iostream
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/train.cpp
+train.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/train.h
+storageEmpty.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/storageEmpty.h
+storageFull.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/storageFull.h
+iostream
+-
+string
+-
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/train.h
+string
+-
+train.cpp
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/train.cpp
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/trolley.cpp
+trolley.h
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/trolley.h
+
+G:/My Drive/University/Semester 2/COS 110/Coding/pracs/p6/trolley.h
+string
+-
+
